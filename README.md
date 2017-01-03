@@ -1,6 +1,8 @@
 # WEB-RTC-VideoRecording
+
 透過網頁平台，進行擷取 web camera 的影像資料，錄製影片與播放直播
-<h2>這是一個 node.js 專案</h2>
+
+這是一個 node.js 專案
 
 它透過WEB RTC技術與網頁平台對攝影機（web camera）的影像進行擷取並存成影片檔
 
